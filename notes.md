@@ -6,3 +6,5 @@ git commit：把暫存區內容提交存檔
 
 git push：上傳到 GitHub
 
+興趣：遊戲、電腦
+
