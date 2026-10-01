@@ -4,3 +4,5 @@ git add：把檔案加入暫存區
 
 git commit：把暫存區內容提交存檔
 
+git push：上傳到 GitHub
+
